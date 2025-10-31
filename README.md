@@ -1,5 +1,4 @@
-<!-- 🌊 Upper wave animation -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/wave.svg" width="100%" />
 
 <h1 align="center">👋 Hi, I'm Muhammadjon Ismoilov</h1>
 <h3 align="center">Full-Stack Developer | JavaScript • TypeScript • Vue • React • NestJS</h3>
@@ -48,5 +47,4 @@ Focused on **JavaScript / TypeScript ecosystems**, I build efficient products us
 
 ---
 
-<!-- 🌊 Lower wave animation -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/wave.svg" width="100%" />
